@@ -1500,7 +1500,7 @@ max-height: 80%;
 
 }
 .playmusic.playmusic-back{
-    background-image: url(../storage/images/back-play.png);
+    background-image: url(storage/images/back-play.png);
 }
 
 .playmusic-content
@@ -2187,7 +2187,7 @@ display:none;
     background-size: 18px;
     background-repeat: no-repeat;
     background-position: 50%;
-    background-image: url(../storage/images/icon-playing.gif);
+    background-image: url(storage/images/icon-playing.gif);
 }
 
 
@@ -2705,7 +2705,7 @@ cursor: pointer;
     background-size: 18px;
     background-repeat: no-repeat;
     background-position: 50%;
-    background-image: url(../storage/images/icon-playing.gif);
+    background-image: url(storage/images/icon-playing.gif);
 }
 
 .profile-item_img-icon{
