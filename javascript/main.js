@@ -1149,7 +1149,7 @@ btnSwapTopic[1].onclick = function(){
     rootStyle.setProperty('--link-text-hover', " #6e8ffb");
     rootStyle.setProperty('--layout-bg', " #061d50");
 
-body.style.background =  ' url(../storage/images/LondonBG.jpg) 0px 0px/1920px auto '
+body.style.background =  ' url(storage/images/LondonBG.jpg) 0px 0px/1920px auto '
 playmusic.style.background ='#061d50'
 headerList.style.backgroundColor ='#192f60'
 PlayList.style.background ='#061d50'
@@ -1225,9 +1225,9 @@ btnSwapTopic[3].onclick = function(){
     rootStyle.setProperty('--link-text-hover', " #fe63da");
     rootStyle.setProperty('--purple-primary', " #ed2b91");
 // body
-body.style.background=  ' url(../storage/images/background1.svg) 0px 0px/1920px auto '
+body.style.background=  ' url(storage/images/background1.svg) 0px 0px/1920px auto '
 // task control music 
-playmusic.style.background = 'url(../storage/images/zma.png)'
+playmusic.style.background = 'url(storage/images/zma.png)'
 //
 
 
@@ -1267,7 +1267,7 @@ btnSwapTopic[4].onclick = function(){
     rootStyle.setProperty('--link-text-hover', " #c662ef");
     rootStyle.setProperty('--purple-primary', "#7200a1");
 // body
-body.style.background=  ' url(../storage/images/eiffelBR.jpg) 0px 0px/1920px auto '
+body.style.background=  ' url(storage/images/eiffelBR.jpg) 0px 0px/1920px auto '
 // task control music 
 playmusic.style.background = '#282828'
 //
@@ -1307,7 +1307,7 @@ btnSwapTopic[5].onclick = function(){
     rootStyle.setProperty('--link-text-hover', " #6e8ffb");
     rootStyle.setProperty('--layout-bg', "#061d50");
     // body
-    body.style.background=  ' url(../storage/images/roseBR.jpg) 0px 0px/1920px auto '
+    body.style.background=  ' url(storage/images/roseBR.jpg) 0px 0px/1920px auto '
     // task control music 
    playmusic.style.background = '#061d50'
 
